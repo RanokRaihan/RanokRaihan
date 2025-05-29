@@ -62,9 +62,7 @@ A dedicated Fullstack developer proficient in creating modern, responsive and ro
 
 ### 🔥 GitHub Streak
 
-<p>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=RanokRaihan" alt="Ranok's GitHub Streak" />
-</p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=RanokRaihan&theme=buefy-dark" alt="GitHub Streak" /></p>
 
 ---
 
